@@ -1,0 +1,16 @@
+C:\Users\kelan\source\repos\NeptuneLoader\NeptuneLoader\bin\Debug\NeptuneLoader.exe.config
+C:\Users\kelan\source\repos\NeptuneLoader\NeptuneLoader\bin\Debug\NeptuneLoader.exe
+C:\Users\kelan\source\repos\NeptuneLoader\NeptuneLoader\bin\Debug\NeptuneLoader.pdb
+C:\Users\kelan\source\repos\NeptuneLoader\NeptuneLoader\obj\Debug\NeptuneLoader.csproj.SuggestedBindingRedirects.cache
+C:\Users\kelan\source\repos\NeptuneLoader\NeptuneLoader\obj\Debug\NeptuneLoader.csproj.CoreCompileInputs.cache
+C:\Users\kelan\source\repos\NeptuneLoader\NeptuneLoader\obj\Debug\NeptuneLoader.exe
+C:\Users\kelan\source\repos\NeptuneLoader\NeptuneLoader\obj\Debug\NeptuneLoader.pdb
+C:\Users\kelan\source\repos\NeptuneLoader\NeptuneLoader\obj\Debug\NeptuneLoader.csproj.AssemblyReference.cache
+C:\Users\kelan\Desktop\SimpleLoader\NeptuneLoader\obj\Debug\NeptuneLoader.csproj.AssemblyReference.cache
+C:\Users\kelan\Desktop\SimpleLoader\NeptuneLoader\obj\Debug\NeptuneLoader.csproj.SuggestedBindingRedirects.cache
+C:\Users\kelan\Desktop\SimpleLoader\NeptuneLoader\obj\Debug\NeptuneLoader.csproj.CoreCompileInputs.cache
+C:\Users\kelan\Desktop\SimpleLoader\NeptuneLoader\bin\Debug\SimpleLoaderRelease.exe.config
+C:\Users\kelan\Desktop\SimpleLoader\NeptuneLoader\bin\Debug\SimpleLoaderRelease.exe
+C:\Users\kelan\Desktop\SimpleLoader\NeptuneLoader\bin\Debug\SimpleLoaderRelease.pdb
+C:\Users\kelan\Desktop\SimpleLoader\NeptuneLoader\obj\Debug\SimpleLoaderRelease.exe
+C:\Users\kelan\Desktop\SimpleLoader\NeptuneLoader\obj\Debug\SimpleLoaderRelease.pdb
