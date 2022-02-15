@@ -76,9 +76,8 @@ ________  ___  _________  ___  ___  ___  ___  ________      ________  ________  
         //main begining menu edit if you want
         static void loader()
         {
-            string f = "GayLoader24";
-            Console.SetCursorPosition((Console.WindowWidth - f.Length) / 2, Console.CursorTop);
-            Console.Title = f;
+            Thread title = new Thread(neptunetitle) { IsBackground = true };
+            title.Start();
             Console.SetWindowSize(40, 10);
             Console.ForegroundColor = ConsoleColor.Red;
             string s = "[Neptune Hook Beta]";
@@ -218,9 +217,6 @@ ________  ___  _________  ___  ___  ___  ___  ________      ________  ________  
         {
             // opens proc when au is found
             Console.Clear();
-            string f = "GayLoader24 - Among Us";
-            Console.SetCursorPosition((Console.WindowWidth - f.Length) / 2, Console.CursorTop);
-            Console.Title = f;
             WindowUtility.MoveWindowToCenter();
             Console.SetWindowSize(40, 13);
             Console.ForegroundColor = ConsoleColor.Red;
@@ -276,9 +272,6 @@ ________  ___  _________  ___  ___  ___  ___  ________      ________  ________  
         static void AssaultCube()
         {
             Console.Clear();
-            string f = "GayLoader24 - Assault Cube";
-            Console.SetCursorPosition((Console.WindowWidth - f.Length) / 2, Console.CursorTop);
-            Console.Title = f;
             WindowUtility.MoveWindowToCenter();
             Console.SetWindowSize(40, 10);
             Console.ForegroundColor = ConsoleColor.Red;
@@ -314,9 +307,6 @@ ________  ___  _________  ___  ___  ___  ___  ________      ________  ________  
         static void CrabGame()
         {
             Console.Clear();
-            string f = "GayLoader24 - Crab Game";
-            Console.SetCursorPosition((Console.WindowWidth - f.Length) / 2, Console.CursorTop);
-            Console.Title = f;
             WindowUtility.MoveWindowToCenter();
             Console.SetWindowSize(40, 10);
             Console.ForegroundColor = ConsoleColor.Red;
@@ -337,6 +327,67 @@ ________  ___  _________  ___  ___  ___  ___  ________      ________  ________  
             Console.SetCursorPosition((Console.WindowWidth - asds.Length) / 2, Console.CursorTop);
             Console.WriteLine(asds);
             Thread.Sleep(5000);
+        }
+        
+        static void neptunetitle()
+        {
+            Console.Title = "N";
+            Thread.Sleep(100);
+            Console.Title = "Ne";
+            Thread.Sleep(100);
+            Console.Title = "Nep";
+            Thread.Sleep(100);
+            Console.Title = "Nept";
+            Thread.Sleep(100);
+            Console.Title = "Neptu";
+            Thread.Sleep(100);
+            Console.Title = "Neptun";
+            Thread.Sleep(100);
+            Console.Title = "Neptune";
+            Thread.Sleep(100);
+            Console.Title = "Neptune-";
+            Thread.Sleep(100);
+            Console.Title = "Neptune-L";
+            Thread.Sleep(100);
+            Console.Title = "Neptune-Lo";
+            Thread.Sleep(100);
+            Console.Title = "Neptune-Loa";
+            Thread.Sleep(100);
+            Console.Title = "Neptune-Load";
+            Thread.Sleep(100);
+            Console.Title = "Neptune-Loade";
+            Thread.Sleep(100);
+            Console.Title = "Neptune-Loader";
+            Thread.Sleep(5000);
+            Console.Title = "Neptune-Loade";
+            Thread.Sleep(100);
+            Console.Title = "Neptune-Load";
+            Thread.Sleep(100);
+            Console.Title = "Neptune-Loa";
+            Thread.Sleep(100);
+            Console.Title = "Neptune-Lo";
+            Thread.Sleep(100);
+            Console.Title = "Neptune-L";
+            Thread.Sleep(100);
+            Console.Title = "Neptune-";
+            Thread.Sleep(100);
+            Console.Title = "Neptune";
+            Thread.Sleep(100);
+            Console.Title = "Neptun";
+            Thread.Sleep(100);
+            Console.Title = "Neptu";
+            Thread.Sleep(100);
+            Console.Title = "Nept";
+            Thread.Sleep(100);
+            Console.Title = "Nep";
+            Thread.Sleep(100);
+            Console.Title = "Ne";
+            Thread.Sleep(100);
+            Console.Title = "N";
+            Thread.Sleep(100);
+            Console.Title = "";
+            Thread.Sleep(100);
+            titleloop();
         }
     }
 }
