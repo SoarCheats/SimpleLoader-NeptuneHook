@@ -4,4 +4,4 @@ Loader to start a process when a game is detected and close the menu or external
 took me 4-5 hours to code this please suck me off if you sell it    8==========D():
 
 # updates
-updated to where there is a animated title :)
+updated to where there is a animated title :) - Feb 13
