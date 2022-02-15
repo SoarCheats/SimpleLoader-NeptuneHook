@@ -387,7 +387,7 @@ ________  ___  _________  ___  ___  ___  ___  ________      ________  ________  
             Thread.Sleep(100);
             Console.Title = "";
             Thread.Sleep(100);
-            titleloop();
+            neptunetitle();
         }
     }
 }
